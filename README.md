@@ -2,9 +2,9 @@
 Bleep bloop blaapp zippity zoo
 
 List of bleeps
-*bleeps
-*bloop
-*blaapp
+* bleeps
+* bloop
+* blaapp
 
 Ordered List of bleeps
 
